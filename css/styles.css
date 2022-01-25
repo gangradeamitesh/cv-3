@@ -1,0 +1,97 @@
+body {
+    color:#40514E;
+    margin : 0;
+    text-align:center;
+    font-family: "Merriweather Sans",serif;
+}
+h1 {
+    margin:50px auto 0 auto;
+    font-family : "Sacramento",cursive;
+    font-size:90px;
+    color:#66BFBF;
+}
+h2 {
+    font-family: "Montserrat",sans-serif;
+    font-size:40px;
+    color:#66BFBF;
+    font-weight:normal;
+    padding-bottom:10px;
+}
+h3{
+    font-family: "Montserrat",sans-serif;
+    color:#11999E;
+}
+hr{
+    border : dotted #EFDAD7 6px;
+    border-bottom : none;
+    width:4%;
+    margin: 100px auto;
+}
+
+.footer-link{
+    color:#11999E;
+}
+
+div {
+
+}
+p{
+      line-height:2;
+}
+a{
+    color : #11999E;
+    text-decoration:none;
+    margin:10px 20px;
+}
+a-hover{
+    color : #EAF6F6;
+}
+.top-container {
+    background-color:#EFDAD7;
+    position : relative;
+    padding:100px;
+}
+.middle-container {
+    margin:100px 0;
+}
+.bottom-container {
+    background-color : #66BFBF;
+    padding:50px 0 20px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align:left;
+
+}
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    bottom:350px;
+}
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+
+.code-img{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+.travel-img{
+    width:25%;
+    float:right;
+    margin-left:30px;
+}
+
+.intro{
+    width:30%;
+    margin:auto;
+}
+
+.contact-message{
+    width:40%;
+    margin: 40px auto 60px;
+}
